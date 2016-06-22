@@ -1,0 +1,43 @@
+/* Folha de Estilos */
+
+/* RESET */
+* 	{ margin: 0; padding: 0; font-size:100%; font-family: 'Droid Sans', sans-serif; font-weight:normal; box-sizing:border-box; border:none; outline:none; }
+img { max-width:100% }
+ul 	{ list-style:none; }
+a 	{ text-decoration:none; }
+h2 	{ font-size: 1.5em; color: #333; }
+p 	{ font-size:1em; color:#777 }
+
+
+/* Cabeçalho */
+.myCabecalho { width: 100%; float: left; height: 70px; padding: 2% 4%; background-color: #06F; color: #fff; }
+.myCabecalho h2 { font-size: 1.5em; color: #fff; }
+
+/* Menu */
+.myMenu { width: 100%; float: left; height: auto; padding: 1%; background-color: #000; color: #fff; display: block; }
+.myMenu .opcoes {width: auto; padding-left: 5%; padding-right: 5%; float: left; }
+.myMenu .opcoes a {text-decoration: none; color: #fff; }
+.myMenu .opcoes a:hover { color: #6CF; } 
+
+/* Corpo */
+.myMain { width: 100%; float: left; min-height: 550px; height: 100%; padding: 3% 4%; background-color: #c1c1c1; }
+.myMain ul { width: 100%; float: left; }
+.myMain ul li { width:100%; padding: 0 5px 0 5px; height: 30px; float: left; margin-bottom: 10px; }
+.myMain input, select { padding: 3px; border:1px groove #666; border-radius: 0 8px; }
+
+/* rodape */
+.myRodape { width: 100%; float: left; height: auto; padding: 3% 4%; background-color: #06F; color:#fff; }
+.myRodape .copy {position: relative; width: 100%; bottom: 0px; text-align: center; font-size: 0.5em; }
+
+/* botao */
+.btn { width: auto; padding: 1% 1%; background-color: #36F; color: #fff; border: 1px dotted #666; border-radius: 8px; font-size: 1.1em; }
+.btn:hover { background-color: #003399; } 
+
+/* Tabelas */
+
+table a {color:#000;}
+table a:hover {color:#F00;}
+
+th { background-color: #000033; color: #fff; text-align: center; font-size: 1.1em; font-weight: bold; }
+tr { background-color: #fff; }
+tr:hover { background-color: #FFFFCC;  }

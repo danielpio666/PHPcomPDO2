@@ -1,0 +1,298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getI",
+				"getId"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"idade",
+				"idade"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"con",
+				"conexao"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"hr",
+				"header	Tag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"my",
+				"myAlunos"
+			],
+			[
+				"lis",
+				"listagem_query"
+			],
+			[
+				"co",
+				"conexao"
+			],
+			[
+				"li",
+				"listas"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"por",
+				"port_db"
+			],
+			[
+				"ho",
+				"host_db"
+			],
+			[
+				"cod",
+				"codcli"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"tot",
+				"totped"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"gett",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"getset",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"getse",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"gets",
+				"Snippet: Create getter and setter methods"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Trabalhos/Aula/DBPDO/Fase2/index.php",
+		"/C/xampp/htdocs/Trabalhos/Aula/DBPDO/Fase2/classes/Alunos.php",
+		"/C/xampp/htdocs/Trabalhos/Aula/DBPDO/Fase2/css/style.css",
+		"/C/xampp/htdocs/Trabalhos/Aula/DBPDO/Fase2/classes/Clientes.php",
+		"/C/Users/DanielPio/AppData/Roaming/Sublime Text 3/Packages/User/getset.sublime-snippet",
+		"/C/xampp/htdocs/Trabalhos/Aula/DBPDO/Fase2/fase2.sublime-project",
+		"/C/xampp/htdocs/Trabalhos/Aula/DBPDO/index.php",
+		"/C/Users/DanielPio/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/C/Users/DanielPio/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/DanielPio/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/Trabalhos/sistema/Projeto/vendas_cad.php",
+		"/C/xampp/htdocs/Trabalhos/sistema/Projeto/vnditens_db.php",
+		"/C/xampp/htdocs/Trabalhos/sistema/Projeto/css/estilo.css",
+		"/C/xampp/htdocs/Trabalhos/sistema/Projeto/bancos.php",
+		"/C/xampp/htdocs/Trabalhos/sistema/Projeto/vndparcelas.php",
+		"/C/xampp/htdocs/Trabalhos/sistema/Projeto/painel.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "fase2.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
