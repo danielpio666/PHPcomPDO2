@@ -1,11 +1,15 @@
 <?php
 
+@ini_set('display_errors', 'on');
+@error_reporting(E_ALL ^ E_NOTICE);
+@ini_set('error_reporting', E_ALL);
+
 require_once "classes/Alunos.php";
 
 try 
 {
-	$conexao = new \PDO("mysql:host=localhost;dbname=aula","root","");
-} 	catch(\PDOExeption $e) {
+	$conexao = new PDO("mysql:host=localhost;dbname=queen584_aula","queen584_aula","myaula2016");
+} 	catch(PDOExeption $e) {
 		die("Problemas com a conexao - Erro : ".$e->getCode()." - ".$e->getMessage());
 }
 

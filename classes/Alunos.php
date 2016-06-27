@@ -11,7 +11,7 @@ class Alunos {
 	private $sexo;
 	private $nota;
 	
-	public function __construct(\PDO $db){
+	public function __construct(PDO $db){
 		$this->db = $db;
 	}
 
@@ -33,7 +33,7 @@ class Alunos {
 				echo "<script>alert('Dados salvos com sucesso!!!');</script>";
 				return true;
 			}
-		} catch(\PDOExeption $e) {
+		} catch(PDOExeption $e) {
 			die("Problemas com a gravação - Erro : ".$e->getCode()." - ".$e->getMessage());
 		}	
 	}
@@ -63,7 +63,7 @@ class Alunos {
 				echo "<script>alert('Dados salvos com sucesso!!!');</script>";
 				return true;
 			}
-		} catch(\PDOExeption $e) {
+		} catch(PDOExeption $e) {
 			die("Problemas com a gravação - Erro : ".$e->getCode()." - ".$e->getMessage());
 		}	
 	}
@@ -79,7 +79,7 @@ class Alunos {
 				echo "<script>alert('Registro Excluido com sucesso!!!');</script>";
 				return true;
 			}
-		} catch(\PDOExeption $e) {
+		} catch(PDOExeption $e) {
 			die("Problemas com a remoção do registro - Erro : ".$e->getCode()." - ".$e->getMessage());
 		}	
 	}
@@ -96,7 +96,7 @@ class Alunos {
 				echo "<script>alert('Problemas com o a pesquisa!!!');</script>";
 				return false;
 			} else {
-				return $stmt->fetchAll(\PDO::FETCH_ASSOC);
+				return $stmt->fetchAll(PDO::FETCH_ASSOC);
 			}	
 		
 		} elseif ($tipo == "single") { 
@@ -110,7 +110,7 @@ class Alunos {
 				echo "<script>alert('Problemas com o Registro!!!');</script>";
 				return false;
 			} else {
-				return $stmt->fetch(\PDO::FETCH_ASSOC);
+				return $stmt->fetch(PDO::FETCH_ASSOC);
 			}
 		} else {
 			return false;
